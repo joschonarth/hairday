@@ -1,4 +1,10 @@
 {
+  "name": "hairday",
+  "description": "Web application for scheduling haircuts.",
+  "author": "João Otávio Schonarth",
+  "scripts": {
+    "server": "json-server --watch server.json --port 3333"
+  },
   "dependencies": {
     "json-server": "^1.0.0-alpha.21"
   }
