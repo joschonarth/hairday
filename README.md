@@ -53,6 +53,8 @@ npm run dev
 
 6. 🔗 A aplicação estará disponível em: [http://localhost:3000](http://localhost:3000)
 
+---
+
 ## 🤝 Contribuindo
 
 Se você deseja contribuir com o projeto, fique à vontade para abrir uma pull request ou uma issue.
